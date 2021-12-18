@@ -17,4 +17,4 @@
 - ハマりポイントはメインビジュアルの文字のサイズのレスポンシブについてでした。
 
 ## URL
-https://aragosta1226.github.io/cheese-academy/
+https://aragosta1226.github.io/cheese-academy/00_first_work/index.html
